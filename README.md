@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Asy Syifa’ 👋</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Multimedia+Computing;AR+%26+Unity+Developer" alt="Typing Animation" />
+<h3 align="center" style="color:#60A5FA;">
+  Computer Science (Multimedia Computing) Student | Aspiring Developer
 </h3>
+
 ---
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
