@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Asy Syifa’ 👋</h1>
-<h3 align="center">Computer Science (Multimedia Computing) Student | Aspiring Developer</h3>
+<h3 align="center">Computer Science (Multimedia Computing) Student | Junior Developer</h3>
 
 ---
 <p align="center">
