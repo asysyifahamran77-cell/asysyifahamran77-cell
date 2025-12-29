@@ -41,7 +41,7 @@
 ---
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: *(add when ready)*
+- 💼 LinkedIn: *www.linkedin.com/in/asy-syifa-hamran-790489346*
 - 🌐 Portfolio: *(add when ready)*
 
 ✨ Thanks for visiting my GitHub profile!
