@@ -1,4 +1,4 @@
-<h1 align="center">Hello World,Im Asy Syifa'</h1>
+<h1 align="center">Hello World,I'm Asy Syifa' 👋🏻 </h1>
 <h3 align="center" style="color:#60A5FA;">
   Computer Science (Multimedia Computing) Student | Aspiring Developer
 </h3>
