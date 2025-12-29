@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Asy Syifa’ 👋</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=c41e3a&center=true&vCenter=true&width=600&lines=Computer+Science+(Multimedia Computing)+Student+|+Junior+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Multimedia+Computing;AR+%26+Unity+Developer" alt="Typing Animation" />
 </h3>
 ---
 <p align="center">
