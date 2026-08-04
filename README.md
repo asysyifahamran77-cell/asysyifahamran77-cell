@@ -42,7 +42,7 @@
 
 ### 📫 Connect With Me
 - 💼 LinkedIn: *www.linkedin.com/in/asy-syifa-hamran-790489346*
-- 🌐 Portfolio: *https://github.com/SyifaDev77/My-Portfolio*
+- 🌐 Portfolio: *https://myportfolio2026-nine.vercel.app/*
 
 ✨ Thanks for visiting my GitHub profile!
 I will keep update my portfolio time to time,stay tuned
